@@ -7,4 +7,4 @@ Used technologies:
 - ECMAScript6
 - Webpack
 
-Link to website: https://angelika-plonka.github.io/Calculators/
+Link to website: https://angelika-plonka.github.io/Calculator/
